@@ -1,9 +1,8 @@
-# Goal
+#goal definition
 int32 order
 ---
-# Result
----
+#result definition
 int32[] sequence
 ---
-# Feedback
+#feedback
 int32[] sequence
